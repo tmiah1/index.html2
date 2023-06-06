@@ -123,4 +123,19 @@ span. {
     padding-bottom: 28px;
 }
 
+.number {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.img__four {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+
 
