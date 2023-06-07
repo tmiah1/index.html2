@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6, span {
     line-height: 2.5;
 }
 
+li {
+    list-style-type: none;
+}
+
 nav {
     height: 100px;
     width: 100%;
@@ -136,6 +140,22 @@ span. {
     justify-content: center;
     padding-top: 28px;
     padding-bottom: 28px;
+}
+
+.nav__link--anchor--primary--two {
+    background-color: rgb(43, 25, 186);
+    height: 50px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    font-size: 28px;
+    margin-top: 2rem;
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: white;
+    transition: all 300ms ease;
+    text-decoration: none;
 }
 
 
